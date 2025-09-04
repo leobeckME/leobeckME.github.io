@@ -1,1 +1,5 @@
-
+title: Leo Beck
+logo: /assets/img/headshot_circle.png
+#description: b
+show_downloads: true
+theme: jekyll-theme-minimal
